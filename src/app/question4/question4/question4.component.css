@@ -1,0 +1,20 @@
+.left{
+    text-align: left;
+    align-items: start;
+}
+ .right{
+    text-align: right;
+    align-items: end;
+}
+.center{
+    text-align: center;
+    align-items: center;
+}
+.left{
+    text-align: left;
+    align-items: start;
+}
+ .right{
+    text-align: right;
+    align-items: end;
+}
